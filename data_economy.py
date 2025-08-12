@@ -157,8 +157,6 @@ def data_economy():
         """
         Función para calcular y mostrar medidas descriptivas.
         """
-        # Nos aseguramos de que el directorio output existe
-        os.makedirs('output', exist_ok=True)
 
         # Creamos el archivo de medidas descriptivas
         with open(f'{output_dir}/{variables['Ciudad']}. {variables['Habitaciones']} Personas/Análisis Económico/Medidas Descriptivas/Medidas Descriptivas | {variables['Ciudad']}.txt', 'w', encoding='utf-8') as file:
