@@ -1,0 +1,15 @@
+requests
+customtkinter
+python-dotenv
+os
+platform
+Pillow
+pandas
+seaborn
+matplotlib.pyplot
+base64
+time
+folium
+geopy
+markdown
+tkinterweb
