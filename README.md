@@ -154,6 +154,52 @@ Mapa interactivo que muestra:
 - Información detallada al hacer clic
 - Agrupación de marcadores (clustering)
 
+## 🤝 Contribución
+
+¡Las contribuciones son bienvenidas y muy apreciadas! Sigue estos pasos para contribuir:
+
+### Proceso de Contribución
+
+1. **Fork** el repositorio
+2. **Clona** tu fork (`git clone https://github.com/tu-usuario/Idealista-Finder.git`)
+3. **Crea una rama** para tu característica (`git checkout -b feature/nueva-caracteristica`)
+4. **Realiza los cambios** necesarios y documéntalos
+5. **Haz commit** de tus cambios (`git commit -m 'Añadir nueva característica'`)
+6. **Sube** los cambios a tu fork (`git push origin feature/nueva-caracteristica`)
+7. Abre un **Pull Request** en GitHub
+
+### Reportar Problemas
+
+Si encuentras algún error o tienes sugerencias de mejora:
+
+1. Revisa la sección de [Issues](https://github.com/alfonsoandressUPCT/Idealista-Finder/issues) para ver si ya ha sido reportado
+2. Si no existe, crea un nuevo issue con la siguiente información:
+   - Título descriptivo
+   - Pasos detallados para reproducir el problema
+   - Comportamiento esperado vs. comportamiento actual
+   - Capturas de pantalla (si aplica)
+   - Entorno (sistema operativo, versión de Python, etc.)
+
+### Guía de Estilo
+
+- Sigue [PEP 8](https://www.python.org/dev/peps/pep-0008/) para el código Python
+- Utiliza nombres descriptivos para variables y funciones
+- Comenta tu código cuando sea necesario
+- Añade docstrings a las funciones siguiendo el formato existente
+- Mantén la coherencia con el estilo del proyecto
+
+### Mejoras Prioritarias
+
+Áreas en las que actualmente buscamos colaboración:
+
+- Mejora del rendimiento en búsquedas extensas
+- Ampliación a otras plataformas inmobiliarias
+- Funcionalidades de predicción de precios
+- Mejoras en la interfaz de usuario
+- Traducciones a otros idiomas
+
+Si tienes dudas sobre cómo contribuir, no dudes en contactar al autor.
+
 ## 👥 Autor
 
 Alfonso Andrés - [@alfonsoandressUPCT](https://github.com/alfonsoandressUPCT)
